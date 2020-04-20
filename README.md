@@ -7,10 +7,9 @@ Welcome to my Video Game Sales Data Analysis Project! It is currently Sunday and
 ------------------------------------------------------------------------------------------------------------------------
 There are 7 Challenges in total in this Data Project. Each challenge answers a question that a client or a potential employer may ask about the data set. Some of the Challenges answer multiple questions or can answer other questions. Obviously, the questions that can be asked is endless, so I attempted to answer the questions I felt a manager may ask.
 
-Below is a preview of the analysis:
-
 ------------------------------------------------------------------------------------------------------------------------
 
-Analyzing the Publishers popularity
+## Below is a preview of the analysis:
 
+### Analyzing the Publishers popularity
 ![](Plots/pub_activity.png)
